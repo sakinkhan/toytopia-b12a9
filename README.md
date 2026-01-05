@@ -4,7 +4,7 @@
 [View Repository](https://github.com/sakinkhan/toytopia-b12a9.git)
 
 **Live:** 
-[View Live Application](LIVE_PROJECT_LINK_HERE)
+[View Live Application](https://toytopia-b12a09.web.app/)
 
 **Overview:**  
 ToyTopia is an online marketplace designed to promote local toy stores by allowing families to browse, explore, and purchase children’s toys through a user-friendly, engaging interface.
